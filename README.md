@@ -90,6 +90,6 @@ Built with modern Minecraft in mind! Zero legacy IDs used.
 [**SkBee**](https://github.com/ShaneBeee/SkBee/releases)  
 **Performance:** 100% lag-free. Uses low-impact metadata tracking.  
 
-lets get premium version to get premium feature here  [**[Advanced Clan System Premium]**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/)
 
-*(Loved this Free version? Upgrade your server with 10-Level Perks, Weekly Economy Events, Global Buffs, and a Personal Progression Shop by purchasing the **Advanced Clan System Premium** today!)*
+*(Loved this Free version? Upgrade your server with 10-Level Perks, Weekly Economy Events, Global Buffs, and a Personal Progression Shop by purchasing the [**[Advanced Clan System Premium]**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/)
+ today!)*
