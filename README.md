@@ -6,7 +6,7 @@ The Basic Clan System is a lightweight, lag-free, and highly interactive social 
 
 
 **⭐ WANT MORE?**  
-*This is the Free "Social-Only" version. If you want Clan Leveling (1-10), Passive Perks, Weekly Events, Custom Global Buffs, and a Personal Point Shop, check out the **[Advanced Clan System Premium]**!*  
+*This is the Free "Social-Only" version. If you want Clan Leveling (1-10), Passive Perks, Weekly Events, Custom Global Buffs, Personal Point Shop, and more interesting feature just with one file plug on your server, check out the [**[Advanced Clan System Premium]**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/)!*  
 
 
 ### 🎨 Custom Clan Tag Colors   
@@ -90,5 +90,6 @@ Built with modern Minecraft in mind! Zero legacy IDs used.
 [**SkBee**](https://github.com/ShaneBeee/SkBee/releases)  
 **Performance:** 100% lag-free. Uses low-impact metadata tracking.  
 
+lets get premium version to get premium feature here  [**[Advanced Clan System Premium]**](https://builtbybit.com/resources/advanced-clan-system-premium-skript.110712/)
 
 *(Loved this Free version? Upgrade your server with 10-Level Perks, Weekly Economy Events, Global Buffs, and a Personal Progression Shop by purchasing the **Advanced Clan System Premium** today!)*
